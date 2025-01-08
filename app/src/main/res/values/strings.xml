@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PureVeg</string>
+    <string name="next">Next</string>
+    <string name="enjoy_restaurant_quality_meals_nat_home">Enjoy Restaurant Quality Meals\nat Home</string>
+    <string name="image_of_a_food">Image of a food</string>
+    <string name="design_by_nsubha">Design by\nSubha</string>
+    <string name="app_logo">App logo</string>
+    <string name="pure_veg">PureVeg</string>
+    <string name="deliever_favourite_food">Deliever Favourite Food</string>
+    <string name="login_to_your_account">Login To Your Account</string>
+    <string name="don_t_have_account">Don\'t Have Account ?</string>
+    <string name="sign_up_here">Sign Up Here</string>
+    <string name="name">Name</string>
+    <string name="already_have_an_account">Already Have An Account ?</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_up_with">Sign Up With</string>
+    <string name="or">Or</string>
+    <string name="choose_location">Choose Location</string>
+    <string name="choose_your_location">Choose Your Location</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">16490435442-7tuikmf85pcuik0erddcoscd1ok5loie.apps.googleusercontent.com</string>
+</resources>
